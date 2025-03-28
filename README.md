@@ -23,6 +23,10 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the total
 - 7. Bottom 5 Worst Sellers by Total Pizzas Sold:
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
+## DashBoard
+![Screenshot 2025-03-27 221409](https://github.com/user-attachments/assets/a7df7743-9f4d-4a97-aabf-6ee12e673d13)
+
+
 ## Key Insights:
 - Sales Performance:
 Total revenue is $8,17,860, with an average order value of $38.31.
