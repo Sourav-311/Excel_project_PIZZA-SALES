@@ -25,9 +25,9 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the total
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
 ## Key Insights:
-Sales Performance:
+-Sales Performance:
 Total revenue is $8,17,860, with an average order value of $38.31.
-Total orders: 21,350, with 49,574 pizzas sold, averaging 2.32 pizzas per order.
+-Total orders: 21,350, with 49,574 pizzas sold, averaging 2.32 pizzas per order.
 Peak Sales Time & Days:
 Busiest Days: Friday and Saturday evenings see the highest number of orders.
 Peak Order Hours: 12-1 PM and 4-8 PM have maximum sales.
